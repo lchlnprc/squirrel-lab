@@ -1,5 +1,8 @@
 # squirrel-lab
 
+Making a small change to start the pipeline
+
+
 Hi! In this repo is a slightly insecure Docker container, and an automated CICD Workflow configured to:
 * Scan for vulns
 * Validate them against the SafeStack platform
